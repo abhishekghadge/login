@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+     background: url(2.jpg) no-repeat center center fixed;
+     background-size: cover;
+    
+    
+     
+}
+.container{
+border: thistle;
+border-radius: 5px;
+color: blanchedalmond;
+position: absolute;
+top: 25%;
+left: 39%;
+margin: 50px;
+}
+.container h1{
+    font-size: 28px;
+    border-bottom: 28px;
+    margin: 20px;
+    width: auto;
+    border: 5px;
+    margin-left: 87px;
+}
+.box{
+    width: 100%;
+    border: 2px;
+    border-radius: 5px;
+}
+.box input{
+    width: 100%;
+    border: none;
+    outline: none;
+    color: white;
+    margin: 2px 0px;
+    font-size: 20px;
+}
+.box i{
+    width: 25px;
+    float: left;
+    text-align: center;
+}
+.btn{
+    cursor: pointer;
+    outline: none;
+    width: 25%;
+    padding: 6px;
+    border-radius: 5px;
+    border-color: yellowgreen;
+    margin: 100px;
+    margin-left: 98px;
+    margin-top: 37px;
+
+}
